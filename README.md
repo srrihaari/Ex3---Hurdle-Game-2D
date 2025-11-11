@@ -26,8 +26,8 @@ Run the scene and display the output.
 
 ## PROGRAM:
 
-# Developed by: Chiiradeep R
-# Register no: 212224240028
+# Developed by: sri har iR
+# Register no: 212223040202
 
 
 ### player.cs :
